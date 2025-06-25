@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sofia</h1>
-<h3 align="center">I'm a computer engineer student and I currently work as a mobile developer.</h3>
+<h3 align="center">I'm a software engineer and with fullstack experience.</h3>
 
-- :computer: I’m currently working as an **Android and iOS developer**
+- :computer: I’m currently working as an **mobile developer**
 
-- 📝 I study **computer engineering at Universidad de Buenos Aires**
+- 📝 I earned my degree in ** Computer Engineering from the University of Buenos Aires **
 
 - 💬 I speak **english and spanish**
 
