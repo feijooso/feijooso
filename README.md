@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sofia</h1>
 <h3 align="center">I'm a software engineer and with fullstack experience.</h3>
 
-- :computer: I’m currently working as an **mobile developer**
+- :computer: I’m currently working as a **mobile developer**
 
 - 📝 I earned my degree in **Computer Engineering from the University of Buenos Aires**
 
