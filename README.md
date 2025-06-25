@@ -3,7 +3,7 @@
 
 - :computer: I’m currently working as an **mobile developer**
 
-- 📝 I earned my degree in ** Computer Engineering from the University of Buenos Aires **
+- 📝 I earned my degree in **Computer Engineering from the University of Buenos Aires**
 
 - 💬 I speak **english and spanish**
 
